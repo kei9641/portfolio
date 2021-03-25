@@ -4,13 +4,12 @@
 
 ## 팀 프로젝트
 
-| 프로젝트명                                                  | 내용                                                  |
-| ----------------------------------------------------------- | ----------------------------------------------------- |
-| [Return Movies](https://github.com/kei9641/Return-Movies)   | 사용자 선호도 기반 취향저격 인생영화 추천 사이트      |
-| [SSAZIT](https://github.com/kei9641/SSAZIT)                 | SSAFY 교육생을 위한 기술블로그                        |
-| [건강한 세끼](https://github.com/kei9641/healthy-meals)     | 하루 권장 섭취량을 고려한 맞춤형 식단 관리 서비스     |
-| [My Gumi](https://github.com/kei9641/My-Gumi/)              | 미션을 해결하며 구미시를 200% 즐기는 게임형 어플      |
-| [VanillaJS mini](https://github.com/kei9641/VanillaJS-mini) | 프레임워크없이 순수 자바스크립트로 만드는 프론트 모음 |
+| 프로젝트명                                                | 내용                                              |
+| --------------------------------------------------------- | ------------------------------------------------- |
+| [Return Movies](https://github.com/kei9641/Return-Movies) | 사용자 선호도 기반 취향저격 인생영화 추천 사이트  |
+| [SSAZIT](https://github.com/kei9641/SSAZIT)               | SSAFY 교육생을 위한 기술블로그                    |
+| [건강한 세끼](https://github.com/kei9641/healthy-meals)   | 하루 권장 섭취량을 고려한 맞춤형 식단 관리 서비스 |
+| [My Gumi](https://github.com/kei9641/My-Gumi/)            | 미션을 해결하며 구미시를 200% 즐기는 게임형 어플  |
 
 
 
