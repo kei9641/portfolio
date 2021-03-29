@@ -1,6 +1,6 @@
 <img src="./assets/logo.png" alt="testlogo"  />
 
-![languages-count](https://img.shields.io/badge/languages-5-blue)![top-language](https://img.shields.io/badge/javascript-38.8%-yellow)![code-size](https://img.shields.io/badge/code size-4.09MB-green) ![total-lines](https://img.shields.io/badge/total lines-144k-crimson) ![contributors](https://img.shields.io/badge/contributors-5-yellow) ![pjt-term](https://img.shields.io/badge/project%20term-6%20Week-brightgreen)
+<img src="./assets/badge.jpg" alt="badges" style="zoom:80%;" />
 
 
 
